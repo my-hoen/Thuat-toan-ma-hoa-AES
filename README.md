@@ -17,4 +17,7 @@
 * Tổng kết
 - Bảo mật thông tin cơ bản cho người dùng phổ thông
 - Xử lý file nhanh chóng mà không cần cài đặt phần mềm mã hóa chuyên dụng
+![image](https://github.com/user-attachments/assets/663688cc-1f4c-436d-bea2-ef0eae039b9a)
+
+
 
