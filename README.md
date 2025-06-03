@@ -4,12 +4,13 @@
 - Giúp bảo vệ dữ liệu cá nhân hoặc tài liệu quan trọng mà không cần cài đặt phần mềm phức tạp
 - Cho phép người dùng tự nhập khóa mã hóa (bất kỳ độ dài nào), sử dụng AES-128, thuật toán mã hóa đối xứng phổ biến
 * Các chức năng chính:
-  Upload file bất kỳ từ máy tính 
+Upload file bất kỳ từ máy tính 
  Mã hóa hoặc giải mã file bằng thuật toán AES-128 (ECB mode)
  Nhập khóa tự do: cho phép người dùng nhập chuỗi khóa tùy ý (dài bao nhiêu cũng được)
  Tải về file kết quả sau khi mã hóa hoặc giải mã
  Giao diện thân thiện, đẹp mắt sử dụng Bootstrap 5 + hiệu ứng glassmorphism
-ông nghệ sử dụng
+
+- Công nghệ sử dụng
   Thành phần        Mô tả
 Flask	            Framework backend Python nhẹ, nhanh
 PyCryptodome     	Thư viện mã hóa AES, thay thế pycrypto
