@@ -11,12 +11,12 @@ Upload file bất kỳ từ máy tính
  Giao diện thân thiện, đẹp mắt sử dụng Bootstrap 5 + hiệu ứng glassmorphism
 
 - Công nghệ sử dụng
-  Thành phần        Mô tả
-Flask	            Framework backend Python nhẹ, nhanh
-PyCryptodome     	Thư viện mã hóa AES, thay thế pycrypto
-Bootstrap 5      	Thư viện CSS UI hiện đại, responsive
-HTML + CSS	       Giao diện web với hiệu ứng thủy tinh (glassmorphism)
-hashlib	          Băm khóa người dùng bằng SHA-256
+  Thành phần               Mô tả
+Flask	                Framework backend Python nhẹ, nhanh
+PyCryptodome     	    Thư viện mã hóa AES, thay thế pycrypto
+Bootstrap 5      	    Thư viện CSS UI hiện đại, responsive
+HTML + CSS	           Giao diện web với hiệu ứng thủy tinh (glassmorphism)
+hashlib	              Băm khóa người dùng bằng SHA-256
 
 * Tổng kết
 - Bảo mật thông tin cơ bản cho người dùng phổ thông
